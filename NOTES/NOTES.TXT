@@ -1,0 +1,21 @@
+node js is a runtime environment for  javascript
+3.role and usage of Node js
+javascript on browser
+in a browser  client sent request and server return response
+server handle database,authenthication,input validation,business logic
+node js also provide this server activities
+web development-create server and listen to requests,
+business logics,request.validate input,connect database and return response
+get the most out of the video
+-watch videos
+-code along and do exercises
+THE REPL
+ Read user input
+ Evaluate user input
+ Print output 
+ CORE MODULES
+ HTTP-launch server and send requests
+ HTTPS-launch ssl server
+ OS-
+ FS-
+ PATH-
